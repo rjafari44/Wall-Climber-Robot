@@ -47,13 +47,14 @@ CAD files for both the shroud and the acrylic frame are included in this reposit
 
 The LiPo battery is the single power source for both ESCs. The 2.4GHz receiver independently routes control signals to the wheel ESC (locomotion) and the fan motor ESC (adhesion), giving the operator independent control over drive and suction.
 
-Block diagram:  
+#### Block diagram:  
 ![Block Diagram](assets/block-diagram.png)
 
-### CAD Assembly
+#### CAD Assembly
 
-CAD assembly:  
 ![CAD Assembly](assets/wall-climber-assembly.png)
+
+*The Onshape assembly file shows the rough placement of parts. Components are not fully constrained or mated, so this is meant as a visual reference only. Assembly file is provided.*
 
 ---
 
